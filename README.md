@@ -2,8 +2,8 @@
 
 ## preview
 
-lyo
+lyo \
 ![My Image](https://github.com/diws1/alacritty-themes/blob/main/screenshots/lyo.png)
 
-nelo
+nelo \
 ![My Image](https://github.com/diws1/alacritty-themes/blob/main/screenshots/nelo.png)
