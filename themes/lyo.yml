@@ -1,0 +1,31 @@
+# Colors (Lyo)
+colors:
+  # Default colors
+  primary:
+    #background: '0x141819'
+    foreground: '0xffffff'
+  # Nord background
+    background: '0x16191F'
+
+  # Normal colors
+  normal:
+    black:   '0x303030'
+    red:     '0xff9487'
+    green:   '0xadff87'
+    yellow:  '0xceff87'
+    blue:    '0x8795ff'
+    magenta: '0xaf87ff'
+    cyan:    '0x87dbff'
+    white:   '0xf9f9f9'
+
+  # Bright colors
+  bright:
+    black:   '0x303030'
+    red:     '0xff9487'
+    green:   '0xadff87'
+    yellow:  '0xceff87'
+    blue:    '0x8795ff'
+    magenta: '0xaf87ff'
+    cyan:    '0x87dbff'
+    white:   '0xf9f9f9'
+
