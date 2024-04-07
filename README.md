@@ -10,6 +10,7 @@ Then edit this line :
 import:
   - ~/.config/alacritty/themes/lyo.yml
 ```
+##
 
 ### preview
 
