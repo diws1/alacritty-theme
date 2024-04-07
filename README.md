@@ -7,8 +7,10 @@ sudo nano ~/.config/alacritty/alacritty.yml
 ```
 Then edit this line :
 ```
+import:
   - ~/.config/alacritty/themes/lyo.yml
 ```
+
 ### preview
 
 lyo \
