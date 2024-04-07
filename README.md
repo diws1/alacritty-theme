@@ -1,6 +1,6 @@
 # alacritty-theme
 
-## How to use them ?
+## How to use ?
 Open your alacritty config file :
 ```
 sudo nano ~/.config/alacritty/alacritty.yml
@@ -10,9 +10,8 @@ Then edit this line :
 import:
   - ~/.config/alacritty/themes/lyo.yml
 ```
-##
 
-### preview
+## preview
 
 lyo \
 ![My Image](https://github.com/diws1/alacritty-themes/blob/main/screenshots/lyo.png)
